@@ -1,0 +1,2 @@
+SELECT FORMAT(GETDATE(), 'yyyy-dd-MM')
+-- 2017-13-06

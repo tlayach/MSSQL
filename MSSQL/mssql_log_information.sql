@@ -1,0 +1,1 @@
+DBCC LOGINFO(N'EDW')

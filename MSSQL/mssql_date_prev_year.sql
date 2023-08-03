@@ -1,0 +1,2 @@
+SELECT YEAR(GETDATE()) - 1
+-- 2016

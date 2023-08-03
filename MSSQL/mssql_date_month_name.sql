@@ -1,0 +1,3 @@
+SELECT FORMAT(GETDATE(), 'MMMM')
+
+-- June
