@@ -1,0 +1,2 @@
+SELECT MONTH(GETDATE())
+-- 6
