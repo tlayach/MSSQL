@@ -1,0 +1,3 @@
+SELECT DATENAME(WEEKDAY, GETDATE())
+
+-- Tuesday
